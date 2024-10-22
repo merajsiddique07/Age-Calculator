@@ -78,8 +78,8 @@
 
     .container {
         display: flex;
-        margin-top: 50px;
-        margin-left: 50px;
+        margin-top: 35px;
+        margin-left: 140px;
         margin-right: 50px;
         flex-wrap: wrap;
         font-size: 20px;
